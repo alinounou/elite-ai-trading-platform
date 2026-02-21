@@ -208,3 +208,19 @@ Import traces:
  GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
 ✓ Compiled in 125ms
 ✓ Compiled in 132ms
+ GET / 200 in 203ms (compile: 47ms, render: 156ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 11ms (compile: 2ms, render: 9ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 10ms (compile: 2ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 11ms (compile: 3ms, render: 9ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 2ms, render: 4ms)
+ GET / 200 in 52ms (compile: 3ms, render: 49ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 10ms (compile: 1700µs, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 11ms (compile: 1941µs, render: 9ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 8ms (compile: 1784µs, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 11ms (compile: 2ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1714µs, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1851µs, render: 5ms)
+✓ Compiled in 167ms
+ GET / 200 in 314ms (compile: 50ms, render: 264ms)
+✓ Compiled in 131ms
