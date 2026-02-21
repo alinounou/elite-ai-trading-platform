@@ -14,22 +14,22 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FXIFY Futures | Trusted Futures Prop Firm for Traders Worldwide",
-  description: "Join FXIFY Futures – a trusted and valued futures prop firm by traders around the world. Get funded, trade with confidence and unlock your full potential today.",
-  keywords: ["Prop Trading", "Futures Trading", "Funded Trading", "Prop Firm", "Futures Prop Firm", "Get Funded", "Trading Capital"],
-  authors: [{ name: "FXIFY Futures" }],
+  title: "Infinity Algo by Jeremy | Professional Trading Tools & Calculators",
+  description: "Professional trading calculators, AI-powered indicators, and expert strategies. Free pivot, Fibonacci, position size calculators and premium trading products.",
+  keywords: ["Trading Calculators", "Pivot Points", "Fibonacci", "Position Size", "Risk Management", "Trading Tools", "Forex", "AI Trading", "Indicators"],
+  authors: [{ name: "Jeremy - Infinity Algo" }],
   icons: {
-    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%232979ff' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>📈</text></svg>",
+    icon: "/logo.png",
   },
   openGraph: {
-    title: "FXIFY Futures | Trusted Futures Prop Firm",
-    description: "Get funded up to $200,000 and keep up to 90% of profits. Trade futures with professional capital.",
+    title: "Infinity Algo by Jeremy",
+    description: "Professional trading calculators and premium trading tools",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "FXIFY Futures | Trusted Futures Prop Firm",
-    description: "Get funded up to $200,000 and keep up to 90% of profits.",
+    title: "Infinity Algo by Jeremy",
+    description: "Professional trading calculators and premium trading tools",
   },
 };
 

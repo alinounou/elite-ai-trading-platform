@@ -277,3 +277,17 @@ Import traces:
 ✓ Compiled in 199ms
 ✓ Compiled in 256ms
 ✓ Compiled in 134ms
+⚠ Fast Refresh had to perform a full reload when ./src/app/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./src/app/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./src/app/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 9ms (compile: 2ms, render: 6ms)
+ GET / 200 in 187ms (compile: 54ms, render: 133ms)
+ GET / 200 in 16ms (compile: 2ms, render: 14ms)
+ GET / 200 in 59ms (compile: 3ms, render: 56ms)
+ GET / 200 in 56ms (compile: 1822µs, render: 54ms)
+ GET / 200 in 51ms (compile: 1820µs, render: 49ms)
+✓ Compiled in 229ms
+⚠ Fast Refresh had to perform a full reload when ./src/app/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./src/app/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 175ms (compile: 46ms, render: 129ms)
+✓ Compiled in 133ms
