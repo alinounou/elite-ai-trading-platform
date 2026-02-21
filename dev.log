@@ -72,3 +72,7 @@ Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allow
  GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 8ms (compile: 1741µs, render: 6ms)
  GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 9ms (compile: 2ms, render: 7ms)
  GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 9ms (compile: 4ms, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1725µs, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 2ms, render: 4ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 1629µs, render: 4ms)
