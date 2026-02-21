@@ -126,3 +126,85 @@ Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allow
  GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
  GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1930µs, render: 5ms)
  GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 1551µs, render: 4ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 1711µs, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 1572µs, render: 4ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 1570µs, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1847µs, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 1655µs, render: 5ms)
+ GET / 200 in 235ms (compile: 50ms, render: 185ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 10ms (compile: 3ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 6ms (compile: 1655µs, render: 4ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 12ms (compile: 2ms, render: 10ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1757µs, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1822µs, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 8ms (compile: 3ms, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 9ms (compile: 3ms, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 10ms (compile: 2ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1745µs, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 10ms (compile: 2ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1667µs, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 1658µs, render: 5ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 4ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 8ms (compile: 1806µs, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
+✓ Compiled in 181ms
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 944ms (compile: 794ms, render: 150ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 74ms (compile: 66ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 32ms (compile: 24ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 29ms (compile: 22ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 27ms (compile: 20ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 25ms (compile: 19ms, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 40ms (compile: 32ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 38ms (compile: 32ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 30ms (compile: 22ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 27ms (compile: 20ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 30ms (compile: 23ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 26ms (compile: 20ms, render: 6ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 27ms (compile: 20ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 29ms (compile: 21ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 27ms (compile: 20ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 42ms (compile: 33ms, render: 9ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 38ms (compile: 31ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 28ms (compile: 21ms, render: 7ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 28ms (compile: 20ms, render: 8ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 500 in 25ms (compile: 19ms, render: 6ms)
+⨯ ./src/app/page.tsx:766:109
+Parsing ecmascript source code failed
+[0m [90m 764 |[39m                   [33m<[39m[33mdiv[39m className[33m=[39m[32m"p-4 rounded-xl"[39m style[33m=[39m{{ backgroundColor[33m:[39m themeColors[33m.[39mborder }}[33m>[39m
+ [90m 765 |[39m                     [33m<[39m[33mdiv[39m className[33m=[39m[32m"text-sm font-medium mb-1"[39m style[33m=[39m{{ color[33m:[39m themeColors[33m.[39mtextSecondary }}[33m>[39m[33mExpected[39m [33mValue[39m[33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+[31m[1m>[22m[39m[90m 766 |[39m                     [33m<[39m[33mdiv[39m className[33m=[39m[32m"text-2xl font-mono font-bold"[39m style[33m=[39m{{ color[33m:[39m themeColors[33m.[39maccent[33m.[39mbuy }[33m>[39m${monteResult[33m.[39mexpectedValue[33m.[39mtoFixed([35m2[39m)}[33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m     |[39m                                                                                                             [31m[1m^[22m[39m
+ [90m 767 |[39m                   [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 768 |[39m                 [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 769 |[39m                 [33m<[39m[33mdiv[39m className[33m=[39m[32m"grid grid-cols-2 gap-4"[39m[33m>[39m[0m
+
+Expected '</', got '{'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+
+ GET / 500 in 87ms (compile: 80ms, render: 6ms)
+✓ Compiled in 281ms
+ GET / 200 in 210ms (compile: 47ms, render: 163ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 3ms, render: 4ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 5ms (compile: 1577µs, render: 4ms)
+✓ Compiled in 225ms
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 12ms (compile: 2ms, render: 10ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 3ms, render: 5ms)
+✓ Compiled in 118ms
+✓ Compiled in 131ms
+ GET / 200 in 219ms (compile: 54ms, render: 165ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 12ms (compile: 2ms, render: 10ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 5ms (compile: 1680µs, render: 4ms)
+ GET /api/ai/signal?symbol=EURUSD&timeframe=1h 200 in 7ms (compile: 2ms, render: 5ms)
+✓ Compiled in 125ms
+✓ Compiled in 132ms
